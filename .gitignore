@@ -1,0 +1,13 @@
+data/
+models/
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.ipynb_checkpoints/
+test_api.py
+test_api.ipynb
+*.tif
+*.pth
+.env
